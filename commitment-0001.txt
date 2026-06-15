@@ -1,0 +1,15 @@
+Verifiable Calls Record Commitment for Entry #1
+
+Wallet (canonical identity): gr_QxtMLNpWgWZFuXfnxF7rmHDRk1IjRFcvp9o8FJaA
+Entry number (sequence): 1
+Previous entry: GbovU2rF_Zs9YxH5y5gkm1C1nhSsqRIHhuMtghB4KaQ  (genesis, #0)
+Type: Commit-reveal only this fingerprint is public until reveal
+Commit date: June 14, 2026
+Reveal: no later than June 14, 2029 (may be revealed earlier)
+
+SHA-256 fingerprint of call-0001.pdf:
+b09b7be46d4d98f8e0553191fedd63895bdf094dea4fcf8a49453da91430ef62
+
+At reveal, the full call-0001.pdf will be published. Anyone can then compute its
+SHA-256 and confirm it equals the fingerprint above, proving the call was fixed on
+the commit date and never altered.
