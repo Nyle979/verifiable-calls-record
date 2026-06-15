@@ -1,4 +1,4 @@
-# Verifiable Calls Record — Kazi Ahmed (Three Lenses Wealth)
+# Verifiable Calls Record - Kazi Ahmed (Three Lenses Wealth)
 
 The official, tamper-evident record of my market calls.
 
@@ -6,13 +6,15 @@ The official, tamper-evident record of my market calls.
 Only entries published from this wallet are part of this record.
 
 ## Current head
-**Latest entry: #0 — Genesis Declaration**
-https://arweave.net/GbovU2rF_Zs9YxH5y5gkm1C1nhSsqRIHhuMtghB4KaQ
+**Latest entry: #1 - Call (committed, reveal pending)**
+Commitment: https://arweave.net/fZejv9kLFW-vrQfyO5yqDKodjTKldPzmK_LmUCK766k
+Reveal no later than 2029-06-14 (full call published by then, or earlier).
 
 ## Entries
 | # | Type | Arweave link | Committed | Reveal by |
 |---|------|--------------|-----------|-----------|
 | 0 | Genesis declaration | https://arweave.net/GbovU2rF_Zs9YxH5y5gkm1C1nhSsqRIHhuMtghB4KaQ | 2026-06-14 | n/a (public) |
+| 1 | Call (ETH and AR, commit-reveal) | https://arweave.net/fZejv9kLFW-vrQfyO5yqDKodjTKldPzmK_LmUCK766k | 2026-06-14 | 2029-06-14 (content pending) |
 
 ## How to check this record
 Each entry has a sequence number with no gaps and links to the one before it. Each
